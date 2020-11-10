@@ -16,11 +16,12 @@ const styles = makeStyles({
     padding: "10%",
     borderRadius: 10,
     color: "white",
+    textAlign: "center",
   },
   infoCard: {
     display: "flex",
     flexDirection: "column",
-    textAlign: "center",
+    textAlign: "left",
   },
 });
 
